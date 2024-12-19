@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+
+body{
+  background: url('https://tse3.mm.bing.net/th?id=OIP.uoeQ8heJj3kBn4xpXx44NwHaEJ&pid=Api&P=0&h=180://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/SAKGwKC/medical-background-with-loop_n26ve-_yg_thumbnail-1080_05.png') no-repeat fixed;
+  background-size: cover;
+  height: 720px;
+  /* background-image: url('./images/home-img.png'); */
+
+}

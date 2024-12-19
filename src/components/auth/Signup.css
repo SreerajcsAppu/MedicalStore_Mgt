@@ -1,0 +1,15 @@
+/* body{
+    background: url('https://cdn.wallpapersafari.com/22/70/oZCrvS.jpeg') no-repeat fixed;
+    background-size: cover;
+    height: 720px;
+    
+} */
+.main{
+    background-color: rgb(0 0 0 / 57%);
+}
+h1{
+    color: #fff;
+}
+label{
+    color: #fff;
+}
